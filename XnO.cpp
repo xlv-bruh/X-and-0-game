@@ -8,9 +8,6 @@ void Draw() {
     const int WIDTH = 60;
     const int HEIGHT = 30;
 
-    sizeof(choice[0]);
-    sizeof(choice[1]);
-
 
     cout << endl;
     cout << endl;
